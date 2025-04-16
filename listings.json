@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1744744137379",
+    "seller": {
+      "name": "yash",
+      "email": "yashmittal4949@gmail.com",
+      "phone": "8694016666",
+      "address": "Haryana",
+      "city": "Hisar",
+      "state": "Haryana",
+      "pincode": "125001"
+    },
+    "name": "nike",
+    "brand": "Nike",
+    "price": 500,
+    "originalPrice": null,
+    "size": "xl",
+    "condition": "Like New",
+    "description": "a new nike with branded deal",
+    "imageUrl": "/uploads/productImage-1744744137352-683732073.jpg",
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-04-15T19:08:57.379Z"
+  },
+  {
+    "_id": "1744746462414",
+    "seller": {
+      "name": "yash mittal",
+      "email": "yash2558.be22@chitkara.edu.in",
+      "phone": "8694016666",
+      "address": "uca batch ",
+      "city": "hisar",
+      "state": "haryana",
+      "pincode": "125001"
+    },
+    "name": "jordan",
+    "brand": "Jordan",
+    "price": 1000,
+    "originalPrice": null,
+    "size": "M",
+    "condition": "Excellent",
+    "description": "new jordan shoes",
+    "imageUrl": "/uploads/productImage-1744746462357-587326380.jpg",
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-04-15T19:47:42.414Z"
+  }
+]
